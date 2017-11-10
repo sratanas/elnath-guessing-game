@@ -1,0 +1,36 @@
+h1 {
+    padding-left:30px;
+    font-family: 'Creepster', cursive;
+    font-size: 45px;
+}
+
+h3{
+    padding-left:35px;
+}
+
+
+#inputField{
+    height: 30px;
+    width: 100px;
+    margin: 50px;
+    border-width:3px;
+    border-color: rgb(240, 28, 67);
+    border-radius: 30px;
+}
+
+#gameBox {
+    height: 300px;
+    width: 500px;
+    background-color: gray;
+    border-style: solid;
+    border-width:3px;
+    border-color: rgb(240, 28, 67);
+    border-radius: 30px;
+    margin: 20px;
+
+}
+
+#answerField {
+    padding-left: 50px;
+    font-size: 30px;
+}
